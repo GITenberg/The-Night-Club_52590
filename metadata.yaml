@@ -1,0 +1,36 @@
+_repo: The-Night-Club_52590
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Jenkins, Herbert George
+    birthdate: 1876
+    deathdate: 1923
+    gutenberg_agent_id: '1211'
+    url: http://www.gutenberg.org/2009/agents/1211
+    wikipedia: http://en.wikipedia.org/wiki/Herbert_George_Jenkins
+description: ''
+gutenberg_issued: '2016-07-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52590'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Clubs -- Fiction'
+- !lcsh 'World War, 1914-1918 -- England -- Fiction'
+- !lcsh 'Short stories, English'
+- !lcsh 'Storytelling -- Fiction'
+- !lcsh 'Bindle, Joseph (Fictitious character) -- Fiction'
+- !lcsh 'Humorous stories'
+- GITenberg
+tableOfContents: Forming the Night Club -- The coming of Sallie -- The Prime Minister
+  decides to advertise -- The boy -- The Barabbas Club -- I fail the Night Club --
+  A surprise behind the veil -- The making of a man of genius -- Mrs. Biltox-Jones's
+  experiment -- The Night Club visits Bindle -- The general becomes a member -- The
+  Mater -- The romance of a horsewhipping -- Ginger visits the Night Club -- A dramatic
+  engagement -- The Moggridges' Zeppelin night -- Sallie at the wheel.
+title: The Night Club
+url: http://www.gutenberg.org/ebooks/52590
